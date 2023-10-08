@@ -1,0 +1,1 @@
+find /home -name "crash.in" -exec sed -i 's/crash/broken/g' {} \;
